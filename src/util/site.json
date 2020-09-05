@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Info",
-    "titleTemplate": "%s",
+    "title": "Pojok Informasi",
+    "titleTemplate": "info",
     "description": "Made with ❤ Built with Gatsby\n\n\nCopyright © 2020 Dinova Widytianto. All Rights Reserved",
     "siteUrl": "http://dinovaw.my.id",
     "image": "/assets/your-logo.png",
