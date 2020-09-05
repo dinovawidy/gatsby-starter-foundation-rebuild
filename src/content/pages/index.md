@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Dinova Widytianto
 tagline: Progammer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/wakul-2.png
 cta:
   ctaText: Know more
   ctaLink: /about
