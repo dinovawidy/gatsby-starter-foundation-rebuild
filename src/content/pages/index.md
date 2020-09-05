@@ -5,7 +5,7 @@ title: Dinova Widytianto
 tagline: Progammer
 featuredImage: /assets/wakul-2.png
 cta:
-  ctaText: Know more
+  ctaText: Kenali Lebih Lanjut
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of Pacitan. Student, informatic engineering
+Seorang mahasiswa yang sedang menempuh study di Surabaya, menjadi Web Developer adalah sebuah tujuan hidup baru
