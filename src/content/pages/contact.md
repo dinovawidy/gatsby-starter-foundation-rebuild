@@ -3,6 +3,6 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+untuk pertanyaan lebih lanjut bisa langsung menghubungi saya melalui contact saya dibawah
 
-Just send us a message using the form below or you can send us a DM on Instagram
+[Instagram](https://www.instagram.com/dinovawidy/)
