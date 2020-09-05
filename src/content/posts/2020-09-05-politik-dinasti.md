@@ -1,14 +1,12 @@
 ---
 template: blog-post
 title: Politik Dinasti
-slug: /politik
+slug: /politik-dinasti
 date: 2020-09-05 20:50
-description: dinasti indonesia
+description: dinasti
 featuredImage: /assets/—pngtree—indonesia-independence-day-banner-vector_5486317.png
 ---
-![gfgfsaca](/assets/impact.png "impacts")
-
-##### Politik dinasti, sebuah kultur politik yang mendarah daging warisan zaman kerajaan. 
+##### Politik dinasti, sebuah kultur politik yang mendarah daging warisan zaman kerajaan.
 
 Jelang Pilkada serentak 2020, politik dinasti menjadi sorotan. Paling banyak dibahas adalah majunya putra pertama Presiden Joko Widodo, Gibran Rakabuming Raka sebagai calon walikota Solo. Sedangkan iparnya, Bobby Nasution, [maju sebagai calon walikota Medan.](https://historia.id/kultur/articles/riwayat-politik-dinasti-P0Kng)
 
