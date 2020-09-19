@@ -2,7 +2,7 @@
 template: blog-post
 title: "Markdown: Syntax"
 slug: /markdown
-date: 2020-05-09T05:53:16.102Z
+date: 2020-05-08 12:53
 description: programming
 featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
 ---
