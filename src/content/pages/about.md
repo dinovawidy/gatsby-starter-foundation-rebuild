@@ -1,48 +1,20 @@
 ---
 template: about-page
 slug: /about
-title: About Me
+title: Portofolio
 ---
-![About Me](/assets/wakul-2.png "About Me")
+![Portofolio]( "Portofolio")
 
-Dinova Widytianto biasa dipanggil Nova, Lahir di Pacitan, Jawa Timur. Lahir dan tumbuh besar di daerah pesisir menjadikan mantai sebagai hobby yang mendarah daging. Sedang menempuh pendidikan di salah satu perguruan tinggi yang ada di surabaya.
+**Development**
 
-Suka lari (joging) walaupun selalu sendiri, aktif main sosial media terutama Instagram.
+<!--StartFragment-->
 
-### **Organisasi** 
+[github.com/dinova0211](github.com/dinova0211)
 
-Ikatan Mahasiswa Pacitan di Surabaya - [impactsurabaya.my.id](impactsurabaya.my.id)
+<!--EndFragment-->
 
-### **Project yang telah dikerjakan**
+**PROJECT YANG TELAH DIKERJAKAN**
 
-website wakulku/ warisan kulinerku 
+![Shoes and Care](/assets/screenshot-42-.png "Shoes and Care")
 
-website Impact Surabaya - [impactsurabaya.my.id](impactsurabaya.my.id)
-
-### **Pengetahuan**
-
-untuk menunjang kebutuhan perangkat lunak maka saya menggunakan alat & Environment dibawah :
-
-
-
-* **Bahasa Pemrograman**
-
-  * PHP
-
-    HTML & CSS
-
-    Java
-
-    C++
-
-    JavaScript
-* Front End
-
-  * Bootstrap
-
-    GatsbyJs
-* Back End
-
-  * Code Igniter
-
-    MariaDB/MySQL
+![Website Ikatan Mahasiswa Pacitan di Surabaya](/assets/screenshot-44-.png "Website Ikatan Mahasiswa Pacitan di Surabaya")
