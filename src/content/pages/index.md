@@ -6,6 +6,6 @@ tagline: Progammer
 featuredImage: /assets/wakul-2.png
 cta:
   ctaText: Kenali Lebih Lanjut
-  ctaLink: /portofolio
+  ctaLink: /about
 ---
 Seorang mahasiswa yang sedang menempuh study di Surabaya, menjadi Web Developer adalah sebuah tujuan hidup baru

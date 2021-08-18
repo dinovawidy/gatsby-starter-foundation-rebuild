@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 export const pageQuery = graphql`
-  query PortofolioQuery($id: String!){
+  query AboutQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
       id
 			html
@@ -16,7 +16,7 @@ export const pageQuery = graphql`
     }
   }
 `
-const PortofolioPage = ({ data }) => {
+const AboutPage = ({ data }) => {
 	const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
 
@@ -34,4 +34,4 @@ const PortofolioPage = ({ data }) => {
 	)
 }
 
-export default PortofolioPage
+export default AboutPage
