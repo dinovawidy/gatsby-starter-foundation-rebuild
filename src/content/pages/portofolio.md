@@ -1,6 +1,6 @@
 ---
-template: about-page
-slug: /about
+template: portofolio-page
+slug: /portofolio
 title: Portofolio
 ---
 # **PORTOFOLIO**

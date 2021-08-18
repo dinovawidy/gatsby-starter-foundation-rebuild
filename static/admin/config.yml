@@ -69,12 +69,12 @@ collections:
             - name: "ctaLink"
               label: "CTA Link"
               widget: "string"
-      - label: "About"
-        name: "about"
-        file: "src/content/pages/about.md"
+      - label: "Portofolio"
+        name: "portofolio"
+        file: "src/content/pages/portofolio.md"
         fields:
-        - {label: "Template", name: "template", widget: "hidden", default: "about-page" }
-        - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+        - {label: "Template", name: "template", widget: "hidden", default: "portofolio-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/portofolio" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact"
